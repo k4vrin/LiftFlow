@@ -17,8 +17,18 @@
                 "ui": [
                     "compose"
                 ]
+            },
+            "web": {
+                "ui": [
+                    "compose"
+                ]
+            },
+            "server": {
+                "engine": [
+                    "ktor"
+                ]
             }
         }
     },
-    "timestamp": "2024-10-15T15:17:48.859400935Z"
+    "timestamp": "2025-01-12T16:14:51.862505166Z"
 }
